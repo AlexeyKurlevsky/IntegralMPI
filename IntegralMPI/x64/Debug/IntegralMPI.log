@@ -1,0 +1,4 @@
+﻿  IntegralMPI.cpp
+D:\СProject\IntegralMPI\IntegralMPI\IntegralMPI.cpp(37,14): warning C4244: =: преобразование "double" в "int", возможна потеря данных
+D:\СProject\IntegralMPI\IntegralMPI\IntegralMPI.cpp(34,12): warning C4101: source: неиспользованная локальная переменная
+  IntegralMPI.vcxproj -> D:\СProject\IntegralMPI\x64\Debug\IntegralMPI.exe
